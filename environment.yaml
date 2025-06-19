@@ -100,7 +100,6 @@ dependencies:
       - charset-normalizer==2.0.4
       - chumpy==0.70
       - click==8.1.7
-      - git+https://github.com/openai/CLIP.git
       - cloudpathlib==0.20.0
       - confection==0.1.5
       - cycler==0.10.0
